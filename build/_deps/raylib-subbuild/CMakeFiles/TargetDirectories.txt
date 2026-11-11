@@ -1,0 +1,3 @@
+C:/Users/adity/OneDrive/Desktop/project-galaxy-defender/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
+C:/Users/adity/OneDrive/Desktop/project-galaxy-defender/build/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/adity/OneDrive/Desktop/project-galaxy-defender/build/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir
